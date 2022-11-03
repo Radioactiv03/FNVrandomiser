@@ -57,6 +57,7 @@ Only *.allowedextension files will be included, which doesn't exist in my case.
       .none
     </AllowedReferenceRelatedFileExtensions>
     <DebugType>None</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
     <StartupObject>
