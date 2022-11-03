@@ -1,0 +1,33 @@
+This is a texture randomiser made for new vegas but can work for other bethesda games, although it is untested. Feel free to message me if it does not work for your game
+
+How to use
+Simply run the randomiser.exe file and point it to the games data folder
+From here follow the instructions on screen to extract the textures, sound or meshes files
+You will then get the option to randomise these files.
+You can then launch the game like normal, however I would strongly recommend XNVSE, NVAC and the 4gb patch to make the game slightly more stable
+
+
+
+To uninstall
+simple delete the textures and sound folder and then verify your game files.
+I am not responsible for breaking your game :)
+
+
+
+
+
+
+Credits to AlexxEG(BSA-Browser) - https://github.com/AlexxEG/BSA_Browser For implementing bsa extraction in c#
+The BSA Browser cli code was modified to allow it to be ran through the .exe to extract files which then gets randomised
+All other code was kept the same
+This shares the license of BSA Browser under GPLv3 as included in the zip file
+
+
+All rights on source code and libraries belong to their respective owners.
+Credits
+Thanks to Timeslip, Q & kaburke for Fallout Mod Manager
+SockNastre
+bsaopt
+BA2Lib
+F4SE's ba2extract tool
+B.A.E. - Bethesda Archive Extractor
